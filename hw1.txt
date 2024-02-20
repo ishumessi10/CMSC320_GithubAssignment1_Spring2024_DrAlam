@@ -1,0 +1,12 @@
+Why are you interested in taking CMSC320?
+
+As a Computer Science major with a keen interest in pursuing machine learning in the future,
+ I believe that CMSC320 would provide me with valuable knowledge and skills that align 
+ perfectly with my academic and career aspirations. I want to do machine learning in the 
+ future and this course offers a comprehensive understanding of data science concepts, 
+ techniques, and tools, which are essential for working with large datasets and extracting 
+ meaningful insights. By learning how to analyse and interpret data effectively, I aim to 
+ develop a strong foundation in machine learning algorithms and methodologies, ultimately 
+ preparing myself for future research and industry opportunities in this rapidly growing field. 
+ Also, Ms. Fardina was teaching this course this semester, and she had really good reviews 
+ about her teaching, so I was eager to take this course with CMSC 330 and CMSC 351.
